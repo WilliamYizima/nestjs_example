@@ -15,3 +15,4 @@ nest new test-example
 
 - É necessário controlar um user que entra e sai (identificando-o)
 - É necessário saber quem foi embora após ás 18:00
+.
